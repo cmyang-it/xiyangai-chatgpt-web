@@ -42,7 +42,7 @@ onMounted(() => {
           {{ $t("setting.openSource") }}
           <a
             class="text-blue-600 dark:text-blue-500"
-            href="https://github.com/cmyang-it/xiyangai-chatgpt-web"
+            href="https://github.com/cmyang-it/chatgpt-web"
             target="_blank"
           >
             GitHub
