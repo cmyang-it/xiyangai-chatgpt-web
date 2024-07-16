@@ -3,9 +3,10 @@
 - 此项目只发布于 GitHub，基于 MIT 协议，免费且作为开源学习使用。并且没有任何形式的卖号、付费服务、讨论群、讨论组等行为。谨防受骗。
 - 本开源是在 [ChenZhaoYu](https://github.com/Chanzhaoyu/chatgpt-web) 基础上做二次开发；去除了 access_token 调用网页逆向接口。
 - 体验地址：https://chat.xiyangai.cn
+- 如果项目对您有用，请您给个`⭐`
 
 
-![Dall-e-3绘图](./public/docs/dalle3-2.png)
+![Dall-e-3绘图](https://easyimage.cmyang.cn/i/2024/07/16/yyptni.webp)
 
 ## 支持功能
 - [x] 原 chatgpt web 功能排除了 access_token 逆向ChatGPT接口
@@ -20,7 +21,7 @@
 - [x] 选择一个合适的中转商支持多种模型渠道（`openai` `gemini pro` `claude` `混元` `豆包` `通义` `千帆` `月之暗面` 等）
 - [x] 中转商推荐 https://api.xiyangai.cn, `一个key` 和 `api接口` 地址，可同时支持 `openai` `gemini pro` `claude` `混元` `豆包` `通义` `千帆` `月之暗面`
 
-![多模型对话](./public/docs/chat-shot.png)
+![多模型对话](https://easyimage.cmyang.cn/i/2024/07/16/yyaxaj.webp)
 
 ## env 变量
 | 环境变量 | 说明                           | 默认值                    |docker部署|
@@ -78,18 +79,18 @@ services:
       # HTTPS 代理，可选，支持 http，https，socks5
       HTTPS_PROXY: http://xxx:7890
 ```
-![对话模型选择](./public/docs/chat-models.png)
+![对话模型选择](https://easyimage.cmyang.cn/i/2024/07/16/yyuizi.webp)
 
 ## 更多展示
 - Dall-e-2
-![dall-e-2 show](./public/docs/dalle2-show.png)
+![dall-e-2 show](https://easyimage.cmyang.cn/i/2024/07/16/yyy2vn.webp)
 - Dall-e-3
-![dall-e-3 show](./public/docs/dalle3-show.png)
+![dall-e-3 show](https://easyimage.cmyang.cn/i/2024/07/16/yz9nx8.webp)
 - phone
 
-![手机端模型选择](./public/docs/phone-models-show.png)
-![手机端模型选择](./public/docs/phone-dalle2-show.png)
-![手机端模型选择](./public/docs/phone-dalle3-show.png)
+![手机端模型选择](https://easyimage.cmyang.cn/i/2024/07/16/yzck7t.webp)
+![手机端模型选择](https://easyimage.cmyang.cn/i/2024/07/16/yzg4sx.webp)
+![手机端模型选择](https://easyimage.cmyang.cn/i/2024/07/16/yzhrqq.webp)
 
 ## 最后
 如果项目对您有用，请给个 `star` 谢谢！
