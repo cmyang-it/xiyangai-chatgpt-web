@@ -19,7 +19,7 @@ export function defaultSetting(): UserState {
       avatar: 'https://easyimage.cmyang.cn/i/2024/06/29/11cy8c1.webp',
       name: '羲阳智能',
 	    apiKey: null,
-      description: 'Star on <a href="https://github.com/cmyang-it/chatgpt-web" class="text-blue-500" target="_blank" >GitHub</a>',
+      description: 'Star on <a href="https://github.com/cmyang-it/xiyangai-chatgpt-web" class="text-blue-500" target="_blank" >GitHub</a>',
     },
   }
 }
