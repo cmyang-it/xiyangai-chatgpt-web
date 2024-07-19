@@ -1,6 +1,6 @@
 # ChatGPT Web
 💡**声明**
-- 此项目只发布于 GitHub，基于 MIT 协议，免费且作为开源学习使用。并且没有任何形式的卖号、付费服务、讨论群、讨论组等行为。谨防受骗。
+- 此项目发布于 [GitHub](https://github.com/cmyang-it/xiyangai-chatgpt-web) 和 [Gitee](https://gitee.com/cmyang-it/xiyangai-chatgpt-web)，基于 MIT 协议，免费且作为开源学习使用。并且没有任何形式的卖号、付费服务、讨论群、讨论组等行为。谨防受骗。
 - 本开源是在 [ChenZhaoYu](https://github.com/Chanzhaoyu/chatgpt-web) 基础上做二次开发；去除了 access_token 调用网页逆向接口。
 - 体验地址：https://chat.xiyangai.cn
 - 如果项目对您有用，请您给个`⭐`
