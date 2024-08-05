@@ -24,20 +24,20 @@
 ![多模型对话](https://easyimage.cmyang.cn/i/2024/07/16/yyaxaj.webp)
 
 ## env 变量
-| 环境变量 | 说明                           | 默认值                    |docker部署|
+| 环境变量 | 说明                           | 默认值                    |
 | --- |------------------------------|------------------------| --- |
-| API_BASE_URL | API 接口地址（可选）                 | https://api.openai.com | ✅ |
-| API_KEY | API 密钥（可选）                   | sk-xxxxx               | ✅ |
-| API_MODELS | 模型以 `,` 隔开（可选）               | gpt-3.5-turbo          | ✅ |
-| API_DISABLE_DEBUG | API调用Debug日志打印，可选            |                        | ✅ |
-| AUTH_SECRET_KEY | 访问权限密钥，可选                    |                        | ✅ |
-| TIMEOUT_MS | 超时，单位毫秒，可选                   |            100000            | ✅ |
-| MAX_REQUEST_PER_HOUR | 每小时最大请求次数，可选，默认无限            |                        | ✅ |
-| SOCKS_PROXY_HOST | 和 `SOCKS_PROXY_PORT` 一起时生效，可选 |                        | ✅ |
-| SOCKS_PROXY_PORT | 和 `SOCKS_PROXY_HOST` 一起时生效，可选 |                        | ✅ |
-| SOCKS_PROXY_USERNAME | 代理用户名，可选                     |                        | ✅ |
-| SOCKS_PROXY_PASSWORD | 代理密码，可选                      |                        | ✅ |
-| HTTPS_PROXY | 支持 `http`，`https`, `socks5`，可选     |                        | ✅ |
+| API_BASE_URL | API 接口地址（可选）                 | https://api.openai.com |
+| API_KEY | API 密钥（可选）                   | sk-xxxxx               |
+| API_MODELS | 模型以 `,` 隔开（可选）               | gpt-3.5-turbo          |
+| API_DISABLE_DEBUG | API调用Debug日志打印，可选            |                        |
+| AUTH_SECRET_KEY | 访问权限密钥，可选                    |                        |
+| TIMEOUT_MS | 超时，单位毫秒，可选                   |            100000            |
+| MAX_REQUEST_PER_HOUR | 每小时最大请求次数，可选，默认无限            |                        |
+| SOCKS_PROXY_HOST | 和 `SOCKS_PROXY_PORT` 一起时生效，可选 |                        |
+| SOCKS_PROXY_PORT | 和 `SOCKS_PROXY_HOST` 一起时生效，可选 |                        |
+| SOCKS_PROXY_USERNAME | 代理用户名，可选                     |                        |
+| SOCKS_PROXY_PASSWORD | 代理密码，可选                      |                        |
+| HTTPS_PROXY | 支持 `http`，`https`, `socks5`，可选     |                        |
 
 ## Docker 部署
 - docker run
